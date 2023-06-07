@@ -1,5 +1,5 @@
 ### Hi!
-https://www.codewars.com/users/TSEG/badges/micro
+(https://www.codewars.com/users/TSEG/badges/micro)
 <!--
 **GhostWheat/GhostWheat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
