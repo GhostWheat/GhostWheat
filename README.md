@@ -1,5 +1,5 @@
 ### Hi!
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/TSEG/) [![CodeWars](https://www.codewars.com/users/TSEG/badges/micro)](https://www.codewars.com/users/TSEG/){: width="250" }
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/TSEG/){:class="img-responsive"} [![CodeWars](https://www.codewars.com/users/TSEG/badges/micro)](https://www.codewars.com/users/TSEG/){: width="250" }
 
 <!--
 **GhostWheat/GhostWheat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
