@@ -1,8 +1,12 @@
-### Hi!
+### Hi, the name is Swan!
+I have wide-ranging interests, foremost of which is web development.
+
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/TSEG/){:class="img-responsive"} 
 
 
 [![CodeWars](https://www.codewars.com/users/TSEG/badges/micro){: width="250" }](https://www.codewars.com/users/TSEG/)
+
+Here are some example repositorie:
 
 <!--
 **GhostWheat/GhostWheat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
