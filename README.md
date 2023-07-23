@@ -34,6 +34,7 @@ $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverf
 -->
 
 Here are some example repositories:
+(playing with this markdown formatting a bit here, to understand it better)
 
 
 <table>
