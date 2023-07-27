@@ -2,7 +2,7 @@
 
 <!-- $${\color{black}Hi, \space the \space name \space is \space \color{purple}Swan!}$$ -->
 
-I have wide-ranging interests, foremost of which is web development.
+I have wide-ranging interests, right now the foremost of which is web development.
 ***
  [![CodeWars](https://www.codewars.com/users/TSEG/badges/micro)](https://www.codewars.com/users/TSEG/) [![LeetCode user swanericksongunther](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fswanericksongunther&logo=leetcode&logoColor=yellow)](https://leetcode.com/swanericksongunther/)
 ***
