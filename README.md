@@ -50,14 +50,14 @@ Here are some example repositories:
 
 </td>
 <td>
-
+<!--
 ```c++
 int foo() { 
     int x = 4;
     return x;
 }
 ```
-
+-->
 </td>
 </tr>
 </table>
