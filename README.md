@@ -45,7 +45,7 @@ Here are some example repositories:
 <tr>
 <td>
 
- [![CodeWars](https://www.codewars.com/users/TSEG/badges/micro)CodeWars](https://www.codewars.com/users/TSEG/)
+<!-- [![CodeWars](https://www.codewars.com/users/TSEG/badges/micro)CodeWars](https://www.codewars.com/users/TSEG/) -->
 
 
 </td>
